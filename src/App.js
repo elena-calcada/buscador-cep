@@ -23,7 +23,7 @@ function App() {
       setCep(response.data)
       setInput('')
     }catch{
-      if(input != ''){
+      if(input !== ''){
         alert("Ops... Erro ao buscar o CEP indicado...")
         setInput('')
       }
