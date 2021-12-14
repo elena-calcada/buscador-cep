@@ -22,7 +22,10 @@ O projeto consiste em fazer a busca por um CEP e receber os dados dele como reto
 - Api utilizada para requisições http: [ViaCep](https://viacep.com.br/)
 - Instalar o axios para trabalhar com requisições http: ```npm install axios```
 - Configurar o axios (baseURL) na aplicação conforme o arquivo ./services/api.js
-- Importar a baseURL do axios no App.js e fazer a requisição http na api 
+- Importar a baseURL do axios no App.js e fazer a requisição http na api
+
+<br>
+Esse projeto foi realizado sob a instrução do [Sujeito Programador](https://sujeitoprogramador.com/).
 
 
 
