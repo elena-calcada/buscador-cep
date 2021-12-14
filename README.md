@@ -24,8 +24,8 @@ O projeto consiste em fazer a busca por um CEP e receber os dados dele como reto
 - Configurar o axios (baseURL) na aplicação conforme o arquivo ./services/api.js
 - Importar a baseURL do axios no App.js e fazer a requisição http na api
 
-<br>
-Esse projeto foi realizado sob a instrução do [Sujeito Programador](https://sujeitoprogramador.com/).
+Esse projeto foi realizado sob a instrução do 
+[Sujeito Programador](https://sujeitoprogramador.com/)
 
 
 
